@@ -1,0 +1,1 @@
+Least correlated stocks play a critical role in portfolio diversification by reducing overall risk. When stocks are less correlated, they are less likely to move in the same direction under similar market conditions. This is beneficial because gains in one stock can offset losses in another, creating a smoother return profile for the entire portfolio.
